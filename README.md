@@ -1,5 +1,5 @@
-# Sovol-SV06-firmware
+#Sovol SV06 Klipper Firmware
 
-This repository contains firmware for the SV06 3D printer from Sovol. You should not use this firmware on any other printer.
+## This branch contains only the base `printer.cfg`.
 
-Use at your own risk. I am creating these files for my personal use and cannot be held responsible for what it might do to your printer.
+## Please refer to the [master branch](https://github.com/bassamanator/Sovol-SV06-firmware/tree/master) to download the firmware.
